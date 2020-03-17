@@ -24,7 +24,7 @@ def main(i):
 			print('\t','_'*40,'\n')
 			print('\t\tDone!.I am Souk Chaw Gyi')
 			print('\t','_'*40)
-			exit()
+			break
 		else:
 			print(Fore.RED+'notvuln==>',Style.RESET_ALL+a+i,'\n')
 if __name__ == "__main__":
