@@ -1,2 +1,2 @@
 # OR
-Open redirect scanner with multithreading
+[-]Open redirect scanner with multithreading[-]
